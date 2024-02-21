@@ -1,0 +1,72 @@
+### Module  1: Introduction to JavaScript
+
+#### Lesson  1: What is JavaScript?
+- Brief history of JavaScript
+- JavaScript's role in web development
+- JavaScript engines and browsers
+- JavaScript as a client-side scripting language
+
+#### Lesson  2: JavaScript in Action
+- Embedding JavaScript in HTML
+- Running JavaScript code in the browser
+- Using the browser's developer tools
+
+#### Lesson  3: Dynamic vs Weakly Typed Languages
+- Understanding dynamic languages
+- JavaScript's dynamic nature
+- Weak typing in JavaScript
+- Implications of weak typing
+
+#### Lesson  4: JavaScript Runs In A Host Environment
+- Host environments (browsers, Node.js, etc.)
+- Differences between environments
+- Global objects and built-in functions
+
+#### Lesson  5: Setting Up a Development Environment
+- Installing Node.js and npm
+- Setting up a code editor (e.g., Visual Studio Code)
+- Using version control with Git
+
+#### Lesson  6: JavaScript vs Java
+- Similarities and differences between JavaScript and Java
+- Why JavaScript is often confused with Java
+- The importance of understanding the context
+
+#### Lesson  7: A Brief History Of JavaScript
+- Origins and development of JavaScript
+- Key milestones in JavaScript's history
+- The evolution of JavaScript standards (ECMAScript)
+
+#### Exercises:
+
+1. **Problem Solving Exercise  1:**
+   - Write a JavaScript program that logs "Hello, World!" to the console.
+   - Write a program that adds two numbers and logs the result.
+   - Write a program that checks if a number is even and logs the result.
+
+2. **Problem Solving Exercise  2:**
+   - Write a function that takes two strings as arguments and returns the concatenation of the strings.
+   - Write a function that takes a number and returns its square.
+   - Write a function that takes a string and checks if it is a palindrome (reads the same backward and forward).
+
+3. **Problem Solving Exercise  3:**
+   - Write a program that logs the current date and time.
+   - Write a program that takes user input and logs it to the console.
+   - Write a program that generates a random number between  1 and  100 and logs it to the console.
+
+#### Questions:
+
+1. **Question  1:**
+   - What is the difference between a dynamic and a statically typed language?
+   - How does JavaScript's dynamic nature affect how you write code?
+   - What are some examples of JavaScript's global objects?
+
+2. **Question  2:**
+   - How does JavaScript differ from Java?
+   - What are some common pitfalls that developers run into when they confuse JavaScript with Java?
+   - How has JavaScript evolved over time, and what has influenced its development?
+
+3. **Question  3:**
+   - What is the role of the JavaScript engine in executing JavaScript code?
+   - How does the Document Object Model (DOM) interact with JavaScript in web development?
+   - What are some key features of the latest ECMAScript standard that you should be aware of?
